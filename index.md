@@ -1,43 +1,64 @@
-# Samuel Miravet-Verde personal page
-
-### Research 
+# Research 
 
 <!---
 <img style="float: left; width: 15%; height: auto" src="./profile_image.jpeg">
 -->
 
-I am a **computational biologist** specializing in **microbiology** and **artificial intelligence–driven bioinformatics** to investigate the genomic and functional complexity of microbial life.  
+I am a **computational biologist** specializing in **microbiology** and **artificial intelligence–driven bioinformatics** to investigate the genomic and functional complexity of microbial life using proteogenomic approaches.  
 
 During my PhD at the Centre for Genomic Regulation in [**Serrano Lab**](http://serranolab.crg.eu/), I led research demonstrating that **small proteins play roles as crucial as larger proteins in microbial systems**, developing multiple tools to study them and addressing other challenges such as **assessing gene essentiality**. I also served as the main data analyst in several collaborative projects, contributing to diverse microbiological studies.  
 
 In 2022, I joined the [**Sunagawa Lab**](https://micro.biol.ethz.ch/research/sunagawa.html) as a postdoctoral researcher at ETH Zurich, where I led the development of the [**Ocean Microbiome Database** (OMDB)](https://omdb.microbiomics.io/repository/ocean/) — the largest curated resource of marine microbial genomes. This work laid the foundation for my **Human Frontiers Science Program (HFSP) Long-Term Postdoctoral Fellowship**, under the project *[Charting the Origin, Diversity, and Biogeography of Small Proteins in the Global Ocean Microbiome](https://www.hfsp.org/awardees/awards?field_award_type_target_id=92&field_award_year_target_id%5B%5D=399&field_countries_target_id=SWITZERLAND&field_nationalities_target_id=SPAIN+%28310%29)*.
 
 
-## Experience
+# Experience
+
+<style>
+  summary {
+    cursor: pointer;
+    list-style: none;
+  }
+  /* Hide default marker */
+  summary::-webkit-details-marker {
+    display: none;
+  }
+  /* Add custom arrow */
+  summary::before {
+    content: "▶"; /* right-pointing triangle */
+    display: inline-block;
+    margin-right: 0.5em;
+    transition: transform 0.2s ease;
+  }
+  /* Rotate arrow when open */
+  details[open] > summary::before {
+    transform: rotate(90deg);
+  }
+</style>
 
 <details open>
-<summary><strong>▶ Professional and Academic Experience</strong></summary>
+  <summary><strong>Professional and Academic Experience</strong></summary>
 
-- **2022 – Present** — *HFSP Long-Term Postdoctoral Fellow*, [Sunagawa Lab](https://www.sunagawa.ethz.ch), ETH Zurich — Zurich, Switzerland  
-  Leading the *Ocean Microbiome Database* project and research on small proteins in marine microbiomes.
+  - **2022 – Present** — *HFSP Long-Term Postdoctoral Fellow*, [Sunagawa Lab](https://www.sunagawa.ethz.ch), ETH Zurich — Zurich, Switzerland  
+    Leading the *Ocean Microbiome Database* project and research on small proteins in marine microbiomes.
 
-- **2022 – 2023** — *Postdoctoral Researcher*, [Sunagawa Lab](https://www.sunagawa.ethz.ch), ETH Zurich — Zurich, Switzerland
+  - **2022 – 2023** — *Postdoctoral Researcher*, [Sunagawa Lab](https://www.sunagawa.ethz.ch), ETH Zurich — Zurich, Switzerland
 
-- **2021 – 2022** — *Junior Postdoctoral Researcher*, [Centre for Genomic Regulation (CRG)](http://serranolab.crg.eu/) — Barcelona, Spain
+  - **2021 – 2022** — *Junior Postdoctoral Researcher*, [Centre for Genomic Regulation (CRG)](http://serranolab.crg.eu/) — Barcelona, Spain
 
-- **2017  – 2017** — *Visiting PhD Student*, [Karr Lab](https://karrlab.org), Icahn Institute for Data Science and Genomic Technology — New York, USA
+  - **2017 – 2017** — *Visiting PhD Student*, [Karr Lab](https://karrlab.org), Icahn Institute for Data Science and Genomic Technology — New York, USA
 
-- **2016 – 2021** — *PhD in Biomedicine & Computational Biology*, Serrano Lab, [Centre for Genomic Regulation (CRG)](http://serranolab.crg.eu/) — Barcelona, Spain
+  - **2016 – 2021** — *PhD in Biomedicine & Computational Biology*, Serrano Lab, [Centre for Genomic Regulation (CRG)](http://serranolab.crg.eu/) — Barcelona, Spain
 
-- **2015 – 2016** — *Bioinformatics Intern*, Serrano Lab, [Centre for Genomic Regulation (CRG)](http://serranolab.crg.eu/) — Barcelona, Spain
+  - **2015 – 2016** — *Bioinformatics Intern*, Serrano Lab, [Centre for Genomic Regulation (CRG)](http://serranolab.crg.eu/) — Barcelona, Spain
 
-- **2013 – 2014** — *Bioinformatics Intern*, GEM Biosoft — Valencia, Spain
+  - **2013 – 2014** — *Bioinformatics Intern*, GEM Biosoft — Valencia, Spain
 
-- **2013 – 2014** — *Bioinformatics Intern*, Foundation for the Promotion of Health and Biomedical Research — Valencia, Spain
+  - **2013 – 2014** — *Bioinformatics Intern*, Foundation for the Promotion of Health and Biomedical Research — Valencia, Spain
 
-- **2011 – 2013** — *Research Intern*, Foundation for the Promotion of Health and Biomedical Research — Valencia, Spain
+  - **2011 – 2013** — *Research Intern*, Foundation for the Promotion of Health and Biomedical Research — Valencia, Spain
 
 </details>
+
 
 <details open>
 <summary><strong>▶ Other Experience</strong></summary>
@@ -49,14 +70,14 @@ In 2022, I joined the [**Sunagawa Lab**](https://micro.biol.ethz.ch/research/sun
 </details>
 
 
-## Education
+# Education
 
 - **Oct 2016 – May 2021** — *PhD in Biomedicine and Computational Biology*, Universitat Pompeu Fabra — Barcelona, Spain. Grade: Excellent cum laude - International mention
 - **Sep 2014 – Jun 2016** — *MSc in Bioinformatics for Health Sciences*, Universitat Pompeu Fabra / Universitat de Barcelona — Barcelona, Spain. Grade: 9.45, 125 ECTS. 
 - **Sep 2010 – Jun 2014** — *BSc in Biochemistry and Biomedical Sciences*, Universitat de València — Valencia, Spain. Grade: 8.37, 244.5 ECTS
 
 
-### Publications
+# Publications
 
 <details>
 <summary><strong>▶ First-author papers</strong></summary>
