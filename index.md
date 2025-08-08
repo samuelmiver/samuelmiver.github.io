@@ -93,7 +93,7 @@ details[open] summary:before {
   <summary><strong>First-author papers</strong></summary>
   <ul>
     <li>
-      "<strong>The natural diversity of <em>E. coli</em> transporter-dependent capsules</strong>" — Carine Roese Mores, Samuel Miravet-Verde, ..., Shinichi Sunagawa, Timothy G. Keys. <em>bioRxiv</em>, 2025 (07 Aug 2025). 
+      "<strong>The natural diversity of <em>E. coli</em> transporter-dependent capsules</strong>" — Carine Roese Mores*, Samuel Miravet-Verde*, ..., Shinichi Sunagawa, Timothy G. Keys. <em>bioRxiv</em>, 2025 (07 Aug 2025). 
       <a href="https://doi.org/10.1101/2025.08.07.669119" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
