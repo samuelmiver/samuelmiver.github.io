@@ -16,26 +16,22 @@ In 2022, I joined the [**Sunagawa Lab**](https://micro.biol.ethz.ch/research/sun
 ## Experience
 
 <style>
-  summary {
-    cursor: pointer;
-    list-style: none;
-  }
-  /* Hide default marker */
-  summary::-webkit-details-marker {
-    display: none;
-  }
-  /* Add custom arrow */
-  summary::before {
-    content: ""; /* right-pointing triangle */
-    display: inline-block;
-    margin-right: 0.5em;
-    transition: transform 0.2s ease;
-  }
-  /* Rotate arrow when open */
-  details[open] > summary::before {
-    transform: rotate(90deg);
-  }
+summary {
+  cursor: pointer;
+}
+summary::-webkit-details-marker {
+  display: none; /* hide default marker */
+}
+summary:before {
+  content: "▶ "; /* right triangle */
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+details[open] summary:before {
+  content: "▼ "; /* down triangle */
+}
 </style>
+
 
 <details open>
   <summary><strong>Professional and Academic Experience</strong></summary>
