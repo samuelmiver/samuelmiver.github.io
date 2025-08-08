@@ -16,7 +16,7 @@ In 2022, I joined the [**Sunagawa Lab**](https://micro.biol.ethz.ch/research/sun
 ## Experience
 
 <details open>
-<summary><strong>Professional and Academic Experience</strong></summary>
+<summary><strong>▶ Professional and Academic Experience</strong></summary>
 
 - **2022 – Present** — *HFSP Long-Term Postdoctoral Fellow*, [Sunagawa Lab](https://www.sunagawa.ethz.ch), ETH Zurich — Zurich, Switzerland  
   Leading the *Ocean Microbiome Database* project and research on small proteins in marine microbiomes.
@@ -40,7 +40,7 @@ In 2022, I joined the [**Sunagawa Lab**](https://micro.biol.ethz.ch/research/sun
 </details>
 
 <details open>
-<summary><strong>Other Experience</strong></summary>
+<summary><strong>▶ Other Experience</strong></summary>
 
 - **Nov 2022 – Present** — *Teaching Fellow*, ETH Zurich — Zurich, Switzerland. Planning, preparation, teaching, and evaluation for the block course **Microbial Community Genomics** (551-1119-00L), covering theoretical, practical, and project development aspects of bioinformatics applied to microbiome research (3 editions).
 
@@ -59,7 +59,7 @@ In 2022, I joined the [**Sunagawa Lab**](https://micro.biol.ethz.ch/research/sun
 ### Publications
 
 <details>
-<summary><strong>First-author papers</strong></summary>
+<summary><strong>▶ First-author papers</strong></summary>
 
 - "**The natural diversity of *E. coli* transporter-dependent capsules**" — Carine Roese Mores, Samuel Miravet-Verde, ..., Shinichi Sunagawa, Timothy G. Keys. *bioRxiv*, 2025 (07 Aug 2025). [📄 Link](https://doi.org/10.1101/2025.08.07.669119)
 
@@ -76,7 +76,7 @@ In 2022, I joined the [**Sunagawa Lab**](https://micro.biol.ethz.ch/research/sun
 </details>
 
 <details>
-<summary><strong>Main data analyst</strong></summary>
+<summary><strong>▶ Main data analyst</strong></summary>
 
 - "**SURE editing: combining oligo-recombineering and programmable insertion/deletion of selection markers to efficiently edit the *Mycoplasma pneumoniae* genome**" — Carlos Piñero-Lambea, Eva Garcia-Ramallo, Samuel Miravet-Verde, ..., Maria Lluch-Senar, Luis Serrano. *Nucleic Acids Research*, 2022 (15 Dec 2022). [📄 Link](https://doi.org/10.1093/nar/gkac1132)
 
@@ -89,7 +89,7 @@ In 2022, I joined the [**Sunagawa Lab**](https://micro.biol.ethz.ch/research/sun
 </details>
 
 <details>
-<summary><strong>Supervisor</strong></summary>
+<summary><strong>▶ Supervisor</strong></summary>
 
 - "**Using single-cell perturbation screens to decode the regulatory architecture of splicing factor programs**" — Miquel Anglada-Girotto, Samuel Miravet-Verde, Luis Serrano. *bioRxiv*, 2025 (07 Feb 2025). [📄 Link](https://doi.org/10.1101/2025.02.07.637061)
 
@@ -102,7 +102,7 @@ In 2022, I joined the [**Sunagawa Lab**](https://micro.biol.ethz.ch/research/sun
 </details>
 
 <details>
-<summary><strong>Other collaborations</strong></summary>
+<summary><strong>▶ Other collaborations</strong></summary>
 
 - "**Genome-resolved diversity and biosynthetic potential of the coral reef microbiome**" — Lucas Paoli, Fabienne Wiederkehr, ..., Samuel Miravet-Verde, ..., Shinichi Sunagawa. *bioRxiv*, 2024 (18 Aug 2024). [📄 Link](https://doi.org/10.1101/2024.08.18.608444)
 
