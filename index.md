@@ -37,7 +37,7 @@ details[open] summary:before {
   <summary><strong>Professional and Academic Experience</strong></summary>
 
   <p><strong>2022 – Present</strong> — <em>HFSP Long-Term Postdoctoral Fellow</em>, <a href="https://www.sunagawa.ethz.ch">Sunagawa Lab</a>, ETH Zurich — Zurich, Switzerland<br>
-  Leading the <em>Ocean Microbiome Database</em> project and research on small proteins in marine microbiomes.</p>
+  Leading the <em>Ocean Microbiome Database</em> development and research on small ORFs and proteins in marine microbiomes.</p>
 
   <p><strong>2022 – 2023</strong> — <em>Postdoctoral Researcher</em>, <a href="https://www.sunagawa.ethz.ch">Sunagawa Lab</a>, ETH Zurich — Zurich, Switzerland</p>
 
@@ -101,7 +101,7 @@ details[open] summary:before {
       <a href="https://doi.org/10.1101/2025.02.06.636790" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
-      "<strong>ProTInSeq: transposon insertion tracking by ultra-deep DNA sequencing to identify translated large and small ORFs</strong>" — Samuel Miravet-Verde, Riccardo Mazzolini, ..., Maria Lluch-Senar, Luis Serrano. <em>Nature Communications</em>, 2024 (12 Feb 2024). 
+      "<strong>ProTInSeq: transposon insertion tracking by ultra-deep DNA sequencing to identify translated large and small ORFs</strong>" — Samuel Miravet-Verde, Rocco Mazzolini, ..., Maria Lluch-Senar, Luis Serrano. <em>Nature Communications</em>, 2024 (12 Feb 2024). 
       <a href="https://www.nature.com/articles/s41467-024-46112-2" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
@@ -113,7 +113,7 @@ details[open] summary:before {
       <a href="https://www.embopress.org/doi/full/10.15252/msb.20188290" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
-      "<strong>Alternative transcriptional regulation in genome-reduced bacteria</strong>" — Samuel Miravet-Verde, Victor Lloréns-Rico, Luis Serrano. <em>Current Opinion in Microbiology</em>, 2017 (Oct 2017). 
+      "<strong>Alternative transcriptional regulation in genome-reduced bacteria</strong>" — Samuel Miravet-Verde, Veronica Lloréns-Rico, Luis Serrano. <em>Current Opinion in Microbiology</em>, 2017 (Oct 2017). 
       <a href="https://www.sciencedirect.com/science/article/pii/S1369527417300723" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
   </ul>
@@ -124,19 +124,19 @@ details[open] summary:before {
   <ul>
     <li>
       "<strong>SURE editing: combining oligo-recombineering and programmable insertion/deletion of selection markers to efficiently edit the <em>Mycoplasma pneumoniae</em> genome</strong>" — Carlos Piñero-Lambea, Eva Garcia-Ramallo, Samuel Miravet-Verde, ..., Maria Lluch-Senar, Luis Serrano. <em>Nucleic Acids Research</em>, 2022 (15 Dec 2022). 
-      <a href="https://doi.org/10.1093/nar/gkac1132" target="_blank" rel="noopener noreferrer">📄 Link</a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/36215032/" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
       "<strong>LoxTnSeq: random transposon insertions combined with cre/lox recombination and counterselection to generate large random genome reductions</strong>" — Daniel Shaw, Samuel Miravet-Verde, ..., Maria Lluch-Senar, Luis Serrano. <em>Microbial Biotechnology</em>, 2021 (Nov 2021). 
-      <a href="https://doi.org/10.1111/1751-7915.13894" target="_blank" rel="noopener noreferrer">📄 Link</a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/33325626/" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
-      "<strong>Inferring active metabolic pathways from proteomics and essentiality data</strong>" — Adrián Montero-Blay, Samuel Miravet-Verde, ..., Maria Lluch-Senar, Luis Serrano. <em>Cell Reports</em>, 2020 (02 Jun 2020). 
+      "<strong>Inferring active metabolic pathways from proteomics and essentiality data</strong>" — Ariadna Montero-Blay, Samuel Miravet-Verde, ..., Maria Lluch-Senar, Luis Serrano. <em>Cell Reports</em>, 2020 (02 Jun 2020). 
       <a href="https://doi.org/10.1016/j.celrep.2020.107722" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
-      "<strong>SynMyco transposon: engineering transposon vectors for efficient transformation of minimal genomes</strong>" — Adrián Montero-Blay, Samuel Miravet-Verde, ..., Maria Lluch-Senar, Luis Serrano. <em>DNA Research</em>, 2019 (01 Aug 2019). 
-      <a href="https://doi.org/10.1093/dnares/dsz015" target="_blank" rel="noopener noreferrer">📄 Link</a>
+      "<strong>SynMyco transposon: engineering transposon vectors for efficient transformation of minimal genomes</strong>" — Ariadna Montero-Blay, Samuel Miravet-Verde, ..., Maria Lluch-Senar, Luis Serrano. <em>DNA Research</em>, 2019 (01 Aug 2019). 
+      <a href="https://pubmed.ncbi.nlm.nih.gov/31257417/" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
   </ul>
 </details>
@@ -153,12 +153,12 @@ details[open] summary:before {
       <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11230296/" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
-      "<strong>In silico RNA isoform screening to identify potential cancer driver exons with therapeutic applications</strong>" — Miquel Anglada-Girotto, Laura Ciampi, ..., Samuel Miravet-Verde, ..., Luis Serrano. <em>Nature Communications</em>, 2024 (26 Dec 2024). 
-      <a href="https://doi.org/10.1038/s41467-024-44468-7" target="_blank" rel="noopener noreferrer">📄 Link</a>
+      "<strong>In silico RNA isoform screening to identify potential cancer driver exons with therapeutic applications</strong>" — Miquel Anglada-Girotto, Ludovica Ciampi, ..., Samuel Miravet-Verde, Luis Serrano. <em>Nature Communications</em>, 2024 (26 Dec 2024). 
+      <a href="https://www.nature.com/articles/s41467-024-51380-z" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
-      "<strong>robustica: customizable robust independent component analysis</strong>" — Miquel Anglada-Girotto, Samuel Miravet-Verde, ..., Stephen A. Head. <em>BMC Bioinformatics</em>, 2022 (16 Aug 2022). 
-      <a href="https://doi.org/10.1186/s12859-022-04847-6" target="_blank" rel="noopener noreferrer">📄 Link</a>
+      "<strong>robustica: customizable robust independent component analysis</strong>" — Miquel Anglada-Girotto, Samuel Miravet-Verde, ..., Sarah A. Head. <em>BMC Bioinformatics</em>, 2022 (16 Aug 2022). 
+      <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05043-9" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
   </ul>
 </details>
@@ -183,24 +183,24 @@ details[open] summary:before {
       <a href="https://doi.org/10.1016/j.micinf.2024.105342" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
-      "<strong>Specialization of the photoreceptor transcriptome by Srrm3-dependent microexons is required for outer segment maintenance and vision</strong>" — Laura Ciampi, Federica Mantica, ..., Samuel Miravet-Verde, ..., Manuel Irimia. <em>PNAS</em>, 2022 (19 Jul 2022). 
+      "<strong>Specialization of the photoreceptor transcriptome by Srrm3-dependent microexons is required for outer segment maintenance and vision</strong>" — Ludovica Ciampi, Federica Mantica, ..., Samuel Miravet-Verde, ..., Manuel Irimia. <em>PNAS</em>, 2022 (19 Jul 2022). 
       <a href="https://doi.org/10.1073/pnas.2117090119" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
-      "<strong>A genetic toolkit and gene switches to limit <em>Mycoplasma</em> growth for biosafety applications</strong>" — Alicia Broto, Emanuele Gaspari, Samuel Miravet-Verde, ..., Luis Serrano. <em>Nature Communications</em>, 2022 (08 Apr 2022). 
-      <a href="https://doi.org/10.1038/s41467-022-29529-4" target="_blank" rel="noopener noreferrer">📄 Link</a>
+      "<strong>A genetic toolkit and gene switches to limit <em>Mycoplasma</em> growth for biosafety applications</strong>" — Alicia Broto, Erika Gaspari, Samuel Miravet-Verde, ..., Luis Serrano. <em>Nature Communications</em>, 2022 (08 Apr 2022). 
+      <a href="https://www.nature.com/articles/s41467-022-29574-0" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
-      "<strong>The role of clonal communication and heterogeneity in breast cancer</strong>" — Ana Martín-Pardillos, Ángela Valls Chiva, ..., Samuel Miravet-Verde, ..., Santiago Ramón y Cajal. <em>BMC Cancer</em>, 2019 (10 Jul 2019). 
-      <a href="https://doi.org/10.1186/s12885-019-5840-6" target="_blank" rel="noopener noreferrer">📄 Link</a>
+      "<strong>The role of clonal communication and heterogeneity in breast cancer</strong>" — Ana Martín-Pardillos, Ángeles Valls Chiva, ..., Samuel Miravet-Verde, ..., Santiago Ramón y Cajal. <em>BMC Cancer</em>, 2019 (10 Jul 2019). 
+      <a href="https://bmccancer.biomedcentral.com/articles/10.1186/s12885-019-5883-y" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
-      "<strong>High frequencies of antibiotic resistance genes in infants' meconium and early fecal samples</strong>" — Maria José Gosalbes, Yolanda Vallès, ..., Samuel Miravet-Verde, ..., Maria Pilar Francino. <em>Journal of Developmental Origins of Health and Disease</em>, 2016 (06 Feb 2016). 
-      <a href="https://doi.org/10.1017/S2040174415007832" target="_blank" rel="noopener noreferrer">📄 Link</a>
+      "<strong>High frequencies of antibiotic resistance genes in infants' meconium and early fecal samples</strong>" — Maria José Gosalbes, Yvonne Vallès, ..., Samuel Miravet-Verde, ..., Maria Pilar Francino. <em>Journal of Developmental Origins of Health and Disease</em>, 2016 (06 Feb 2016). 
+      <a href="https://pubmed.ncbi.nlm.nih.gov/26353938/" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
-      "<strong>Engineering bacteria to form a biofilm and induce clumping in <em>Caenorhabditis elegans</em></strong>" — Pablo Dorado-Morales, Antonio Iglesias, ..., Samuel Miravet-Verde, ..., Manuel Porcar. <em>ACS Synthetic Biology</em>, 2014 (15 Dec 2014). 
-      <a href="https://doi.org/10.1021/sb500039k" target="_blank" rel="noopener noreferrer">📄 Link</a>
+      "<strong>Engineering bacteria to form a biofilm and induce clumping in <em>Caenorhabditis elegans</em></strong>" — Pedre Dorado-Morales, Alba Iglesias, ..., Samuel Miravet-Verde, ..., Manuel Porcar. <em>ACS Synthetic Biology</em>, 2014 (15 Dec 2014). 
+      <a href="https://pubs.acs.org/doi/10.1021/sb4001883" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
   </ul>
 </details>
