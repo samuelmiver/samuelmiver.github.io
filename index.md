@@ -55,7 +55,7 @@ details[open] summary:before {
 }
 </style>
 
-<details open>
+<details>
   <summary><strong>Professional & Academic Experience</strong></summary>
   <ul>
     <li>
