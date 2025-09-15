@@ -1,4 +1,8 @@
-# 
+# Samuel Miravet-Verde personal page
+
+## Keywords 
+
+Computational Biology, Proteogenomics, Microbiology, Artificial Intelligence, Systems Biology, Microbial Ecology.
 
 ## Research 
 
