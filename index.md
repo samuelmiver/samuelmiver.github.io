@@ -1,16 +1,12 @@
 # Samuel Miravet-Verde personal page
 
-## Keywords 
-
-Computational Biology, Proteogenomics, Microbiology, Artificial Intelligence, Systems Biology, Microbial Ecology.
-
 ## Research 
 
 <!---
 <img style="float: left; width: 15%; height: auto" src="./profile_image.jpeg">
 -->
 
-I am a **computational biologist** specializing in **microbiology** and **artificial intelligence–driven bioinformatics** to investigate the genomic and functional complexity of microbial life using proteogenomic approaches.  
+I am a **computational biologist** specializing in **microbiology** and **artificial intelligence–driven bioinformatics** to investigate the genomic and functional complexity of microbial life using **proteogenomic** approaches.  
 
 During my PhD at the Centre for Genomic Regulation in [**Serrano Lab**](http://serranolab.crg.eu/), I led research demonstrating that **small proteins play roles as crucial as larger proteins in microbial systems**, developing multiple tools to study them and addressing other challenges such as **assessing gene essentiality**. I also served as the main data analyst in several collaborative projects, contributing to diverse microbiological studies.  
 
@@ -60,7 +56,7 @@ details[open] summary:before {
 </style>
 
 
-<details>
+<details open>
   <summary><strong>Professional & Academic Experience</strong></summary>
   <ul>
     <li>
@@ -95,7 +91,7 @@ details[open] summary:before {
 </details>
 
 
-<details>
+<details open>
   <summary><strong>Other Experience</strong></summary>
   <ul>
     <li>
@@ -109,7 +105,7 @@ details[open] summary:before {
   </ul>
 </details>
 
-<details>
+<details open>
   <summary><strong>Education</strong></summary>
   <ul>
     <li>
