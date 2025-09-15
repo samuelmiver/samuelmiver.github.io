@@ -1,4 +1,4 @@
-# Samuel Miravet-Verde personal page
+# 
 
 ## Research 
 
@@ -12,6 +12,29 @@ During my PhD at the Centre for Genomic Regulation in [**Serrano Lab**](http://s
 
 In 2022, I joined the [**Sunagawa Lab**](https://micro.biol.ethz.ch/research/sunagawa.html) as a postdoctoral researcher at ETH Zurich, where I led the development of the [**Ocean Microbiome Database** (OMDB)](https://omdb.microbiomics.io/repository/ocean/) — the largest curated resource of marine microbial genomes. This work laid the foundation for my **Human Frontiers Science Program (HFSP) Long-Term Postdoctoral Fellowship**, under the project *[Charting the Origin, Diversity, and Biogeography of Small Proteins in the Global Ocean Microbiome](https://www.hfsp.org/awardees/awards?field_award_type_target_id=92&field_award_year_target_id%5B%5D=399&field_countries_target_id=SWITZERLAND&field_nationalities_target_id=SPAIN+%28310%29)*.
 
+
+## Links of interest
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/miravetverde/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <a href="https://github.com/samuelmiver" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="30" height="30"/>
+  </a>
+  <a href="https://scholar.google.es/citations?hl=en&user=CnX2oG4AAAAJ" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" alt="Google Scholar" width="30" height="30"/>
+  </a>
+  <a href="https://orcid.org/my-orcid?orcid=0000-0002-1542-5912" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/orcid.svg" alt="ORCID" width="30" height="30"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Samuel-Miravet-Verde?ev=hdr_xprf" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/researchgate.svg" alt="ResearchGate" width="30" height="30"/>
+  </a>
+  <a href="https://x.com/Samuel_BIO2810" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="30" height="30"/>
+  </a>
+</p>
 
 ## Experience
 
@@ -33,43 +56,56 @@ details[open] summary:before {
 </style>
 
 
-<details open>
-  <summary><strong>Professional and Academic Experience</strong></summary>
-
-  <p><strong>2022 – Present</strong> — <em>HFSP Long-Term Postdoctoral Fellow</em>, <a href="https://www.sunagawa.ethz.ch">Sunagawa Lab</a>, ETH Zurich — Zurich, Switzerland<br>
-  Leading the <em>Ocean Microbiome Database</em> development and research on small ORFs and proteins in marine microbiomes.</p>
-
-  <p><strong>2022 – 2023</strong> — <em>Postdoctoral Researcher</em>, <a href="https://www.sunagawa.ethz.ch">Sunagawa Lab</a>, ETH Zurich — Zurich, Switzerland</p>
-
-  <p><strong>2021 – 2022</strong> — <em>Junior Postdoctoral Researcher</em>, <a href="http://serranolab.crg.eu/">Centre for Genomic Regulation (CRG)</a> — Barcelona, Spain</p>
-
-  <p><strong>2017 – 2017</strong> — <em>Visiting PhD Student</em>, <a href="https://karrlab.org">Karr Lab</a>, Icahn Institute for Data Science and Genomic Technology — New York, USA</p>
-
-  <p><strong>2016 – 2021</strong> — <em>PhD in Biomedicine & Computational Biology</em>, Serrano Lab, <a href="http://serranolab.crg.eu/">Centre for Genomic Regulation (CRG)</a> — Barcelona, Spain</p>
-
-  <p><strong>2015 – 2016</strong> — <em>Bioinformatics Intern</em>, Serrano Lab, <a href="http://serranolab.crg.eu/">Centre for Genomic Regulation (CRG)</a> — Barcelona, Spain</p>
-
-  <p><strong>2013 – 2014</strong> — <em>Bioinformatics Intern</em>, GEM Biosoft — Valencia, Spain</p>
-
-  <p><strong>2013 – 2014</strong> — <em>Bioinformatics Intern</em>, Foundation for the Promotion of Health and Biomedical Research — Valencia, Spain</p>
-
-  <p><strong>2011 – 2013</strong> — <em>Research Intern</em>, Foundation for the Promotion of Health and Biomedical Research — Valencia, Spain</p>
-
+<details>
+  <summary><strong>Professional & Academic Experience</strong></summary>
+  <ul>
+    <li>
+      <p><strong>Nov 2023 – Present</strong> — <em>HFSP Long-Term Postdoctoral Fellow</em>, <a href="https://www.sunagawa.ethz.ch">Sunagawa Lab</a>, ETH Zurich — Zurich, Switzerland<br>
+      Leading the <em>Ocean Microbiome Database</em> development and research on small ORFs and proteins in marine microbiomes.</p>
+    </li>
+    <li>
+      <p><strong>Aug 2022 – Oct 2023</strong> — <em>Postdoctoral Researcher</em>, <a href="https://www.sunagawa.ethz.ch">Sunagawa Lab</a>, ETH Zurich — Zurich, Switzerland</p>
+    </li>
+    <li>
+      <p><strong>Jun 2021 – Jun 2022</strong> — <em>Junior Postdoctoral Researcher</em>, <a href="http://serranolab.crg.eu/">Centre for Genomic Regulation (CRG)</a> — Barcelona, Spain</p>
+    </li>
+    <li>
+      <p><strong>Jan 2017 – May 2017</strong> — <em>Visiting PhD Student</em>, <a href="https://karrlab.org">Karr Lab</a>, Icahn Institute for Data Science and Genomic Technology — New York, USA</p>
+    </li>
+    <li>
+      <p><strong>Oct 2016 – May 2021</strong> — <em>PhD in Biomedicine & Computational Biology</em>, Serrano Lab, <a href="http://serranolab.crg.eu/">Centre for Genomic Regulation (CRG)</a> — Barcelona, Spain</p>
+    </li>
+    <li>
+      <p><strong>Sep 2015 – Sep 2016</strong> — <em>Bioinformatics Intern</em>, Serrano Lab, <a href="http://serranolab.crg.eu/">Centre for Genomic Regulation (CRG)</a> — Barcelona, Spain</p>
+    </li>
+    <li>
+      <p><strong>Oct 2013 – Aug 2014</strong> — <em>Bioinformatics Intern</em>, GEM Biosoft — Valencia, Spain</p>
+    </li>
+    <li>
+      <p><strong>May 2013 – Aug 2014</strong> — <em>Bioinformatics Intern</em>, Foundation for the Promotion of Health and Biomedical Research — Valencia, Spain</p>
+    </li>
+    <li>
+      <p><strong>Jun 2011 – May 2013</strong> — <em>Research Intern</em>, Foundation for the Promotion of Health and Biomedical Research — Valencia, Spain</p>
+    <li>
+  </ul>
 </details>
 
 
-<details open>
+<details>
   <summary><strong>Other Experience</strong></summary>
-
-  <p><strong>Nov 2022 – Present</strong> — <em>Teaching Fellow</em>, ETH Zurich — Zurich, Switzerland.<br>
-  Planning, preparation, teaching, and evaluation for the block course <strong>Microbial Community Genomics</strong> (551-1119-00L), covering theoretical, practical, and project development aspects of bioinformatics applied to microbiome research (3 editions).</p>
-
-  <p><strong>2023 – Present</strong> — <em>Editorial Board Member</em>, BMC Bioinformatics.<br>
-  Since June 2024 also <em>Early Career Reviewer</em>, Blue Biotechnology.</p>
-
+  <ul>
+    <li>
+      <p><strong>Nov 2022 – Present</strong> — <em>Teaching Fellow</em>, ETH Zurich — Zurich, Switzerland.<br>
+      Planning, preparation, teaching, and evaluation for the block course <strong>Microbial Community Genomics</strong> (551-1119-00L), covering theoretical, practical, and project     development aspects of bioinformatics applied to microbiome research (3 editions).</p>
+    </li>
+    <li>
+      <p><strong>2023 – Present</strong> — <em>Editorial Board Member</em>, BMC Bioinformatics.<br>
+      Since June 2024 also <em>Early Career Reviewer</em>, Blue Biotechnology.</p>
+    </li>
+  </ul>
 </details>
 
-<details open>
+<details>
   <summary><strong>Education</strong></summary>
   <ul>
     <li>
@@ -167,6 +203,10 @@ details[open] summary:before {
   <summary><strong>Other collaborations</strong></summary>
   <ul>
     <li>
+      "<strong>Transcriptomic profiles of single-copy marker genes enable predicting bacterial growth states in microbial communities</strong>" — Melanie Staeubli, ..., Samuel Miravet-Verde, ..., Shinichi Sunagawa. <em>bioRxiv</em>, 2025 (26 Aug 2025). 
+      <a href="https://www.biorxiv.org/content/10.1101/2025.08.26.672432v1.full" target="_blank" rel="noopener noreferrer">📄 Link</a>
+    </li>
+    <li>
       "<strong>Genome-resolved diversity and biosynthetic potential of the coral reef microbiome</strong>" — Lucas Paoli, Fabienne Wiederkehr, ..., Samuel Miravet-Verde, ..., Shinichi Sunagawa. <em>bioRxiv</em>, 2024 (18 Aug 2024). 
       <a href="https://doi.org/10.1101/2024.08.18.608444" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
@@ -199,7 +239,7 @@ details[open] summary:before {
       <a href="https://pubmed.ncbi.nlm.nih.gov/26353938/" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
-      "<strong>Engineering bacteria to form a biofilm and induce clumping in <em>Caenorhabditis elegans</em></strong>" — Pedre Dorado-Morales, Alba Iglesias, ..., Samuel Miravet-Verde, ..., Manuel Porcar. <em>ACS Synthetic Biology</em>, 2014 (15 Dec 2014). 
+      "<strong>Engineering bacteria to form a biofilm and induce clumping in <em>Caenorhabditis elegans</em></strong>" — Pedro Dorado-Morales, Alba Iglesias, ..., Samuel Miravet-Verde, ..., Manuel Porcar. <em>ACS Synthetic Biology</em>, 2014 (15 Dec 2014). 
       <a href="https://pubs.acs.org/doi/10.1021/sb4001883" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
   </ul>
