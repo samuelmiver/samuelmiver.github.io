@@ -213,6 +213,10 @@ details[open] summary:before {
       <a href="https://doi.org/10.1101/2024.08.18.608444" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
+      "<strong>A roadmap for equitable reuse of public microbiome data</strong>" —Laura A. Hug, Roland Hatzenpichler, ..., The Data Reuse Consortium*, Alexander J. Probst <em>Nature Microbiology</em> (26 Sep 2025). 
+      <a href="https://www.nature.com/articles/s41564-025-02116-2" target="_blank" rel="noopener noreferrer">📄 Link</a>
+    </li>
+    <li>
       "<strong>Extensive data mining uncovers novel diversity among members of the rare biosphere within the Thermoplasmatota</strong>" — Mara D. Maeke, Xiuran Yin, ..., Samuel Miravet-Verde, ..., Christiane Hassenrück. <em>Microbiome</em> (03 Aug 2025). 
       <a href="https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-025-02140-8" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
