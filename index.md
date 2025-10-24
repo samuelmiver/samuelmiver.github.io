@@ -183,8 +183,8 @@ details[open] summary:before {
       <a href="https://www.biorxiv.org/content/10.1101/2024.06.21.600051v4" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
-      "<strong>Using single-cell perturbation screens to decode the regulatory architecture of splicing factor programs</strong>" — Miquel Anglada-Girotto, Samuel Miravet-Verde, Luis Serrano. <em>bioRxiv</em> (07 Feb 2025). 
-      <a href="https://doi.org/10.1101/2025.02.07.637061" target="_blank" rel="noopener noreferrer">📄 Link</a>
+      "<strong>Using single-cell perturbation screens to decode the regulatory architecture of splicing factor programs</strong>" — Miquel Anglada-Girotto, Samuel Miravet-Verde, Luis Serrano. <em>Nucleic Acids Research</em> (17 Oct 2025). 
+      <a href="https://academic.oup.com/nar/article/53/19/gkaf855/8285795" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
       "<strong>In silico RNA isoform screening to identify potential cancer driver exons with therapeutic applications</strong>" — Miquel Anglada-Girotto, Ludovica Ciampi, ..., Samuel Miravet-Verde, Luis Serrano. <em>Nature Communications</em> (26 Dec 2024). 
@@ -200,6 +200,10 @@ details[open] summary:before {
 <details>
   <summary><strong>Other collaborations</strong></summary>
   <ul>
+    <li>
+      "<strong>Variations in the latitudinal diversity gradients of the ocean microbiome</strong>" — Dominic Eriksson, Jonas Schiller, ..., Samuel Miravet-Verde, ..., Shinichi Sunagawa, Peer Bork, Meike Vogt. <em>bioRxiv</em> (13 Oct 2025). 
+      <a href="https://www.biorxiv.org/content/10.1101/2025.10.13.682024v2.abstract" target="_blank" rel="noopener noreferrer">📄 Link</a>
+    </li>
     <li>
       "<strong>Transcriptomic profiles of single-copy marker genes enable predicting bacterial growth states in microbial communities</strong>" — Melanie Staeubli, ..., Samuel Miravet-Verde, ..., Shinichi Sunagawa. <em>bioRxiv</em> (26 Aug 2025). 
       <a href="https://www.biorxiv.org/content/10.1101/2025.08.26.672432v1.full" target="_blank" rel="noopener noreferrer">📄 Link</a>
