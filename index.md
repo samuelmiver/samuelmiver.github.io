@@ -127,7 +127,7 @@ details[open] summary:before {
   <summary><strong>First-author papers</strong></summary>
   <ul>
     <li>
-      "<strong>The natural diversity of <em>E. coli</em> transporter-dependent capsules</strong>" — Carine Roese Mores*, Samuel Miravet-Verde*, ..., Shinichi Sunagawa, Timothy G. Keys. <em>bioRxiv</em> (07 Aug 2025). 
+      "<strong>The natural diversity of <em>E. coli</em> transporter-dependent capsules</strong>" — Samuel Miravet-Verde*, Carine Roese Mores*, ..., Shinichi Sunagawa, Timothy G. Keys. <em>bioRxiv</em> (07 Aug 2025). 
       <a href="https://doi.org/10.1101/2025.08.07.669119" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
@@ -201,16 +201,16 @@ details[open] summary:before {
   <summary><strong>Other collaborations</strong></summary>
   <ul>
     <li>
+      "<strong>Coral microbiomes as reservoirs of unknown genomic and biosynthetic diversity</strong>" — Fabienne Wiederkehr, Lucas Paoli, ..., Samuel Miravet-Verde, ..., Shinichi Sunagawa. <em>Nature</em> (25 Feb 2026). 
+      <a href="https://www.nature.com/articles/s41586-026-10159-6" target="_blank" rel="noopener noreferrer">📄 Link</a>
+    </li>
+    <li>
       "<strong>Variations in the latitudinal diversity gradients of the ocean microbiome</strong>" — Dominic Eriksson, Jonas Schiller, ..., Samuel Miravet-Verde, ..., Shinichi Sunagawa, Peer Bork, Meike Vogt. <em>bioRxiv</em> (13 Oct 2025). 
       <a href="https://www.biorxiv.org/content/10.1101/2025.10.13.682024v2.abstract" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
       "<strong>Transcriptomic profiles of single-copy marker genes enable predicting bacterial growth states in microbial communities</strong>" — Melanie Staeubli, ..., Samuel Miravet-Verde, ..., Shinichi Sunagawa. <em>bioRxiv</em> (26 Aug 2025). 
       <a href="https://www.biorxiv.org/content/10.1101/2025.08.26.672432v1.full" target="_blank" rel="noopener noreferrer">📄 Link</a>
-    </li>
-    <li>
-      "<strong>Genome-resolved diversity and biosynthetic potential of the coral reef microbiome</strong>" — Lucas Paoli, Fabienne Wiederkehr, ..., Samuel Miravet-Verde, ..., Shinichi Sunagawa. <em>bioRxiv</em> (18 Aug 2024). 
-      <a href="https://doi.org/10.1101/2024.08.18.608444" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
       "<strong>A roadmap for equitable reuse of public microbiome data</strong>" —Laura A. Hug, Roland Hatzenpichler, ..., The Data Reuse Consortium*, Alexander J. Probst <em>Nature Microbiology</em> (26 Sep 2025). 
