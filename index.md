@@ -179,8 +179,8 @@ details[open] summary:before {
   <summary><strong>Supervisor</strong></summary>
   <ul>
     <li>
-      "<strong>Exon inclusion signatures enable accurate estimation of splicing factor activity</strong>" — Miquel Anglada-Girotto, Daniel F. Moakley, ..., Samuel Miravet-Verde, ..., Andrea Califano, Luis Serrano. <em>bioRxiv</em> (29 Jul 2025). 
-      <a href="https://www.biorxiv.org/content/10.1101/2024.06.21.600051v4" target="_blank" rel="noopener noreferrer">📄 Link</a>
+      "<strong>Exon inclusion signatures enable accurate estimation of splicing factor activity</strong>" — Miquel Anglada-Girotto, Daniel F. Moakley, ..., Samuel Miravet-Verde, Andrea Califano, Luis Serrano. <em>Nature Communications</em> (12 Mar 2026). 
+      <a href="https://www.nature.com/articles/s41467-026-69642-3" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
       "<strong>Using single-cell perturbation screens to decode the regulatory architecture of splicing factor programs</strong>" — Miquel Anglada-Girotto, Samuel Miravet-Verde, Luis Serrano. <em>Nucleic Acids Research</em> (17 Oct 2025). 
