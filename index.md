@@ -127,8 +127,8 @@ details[open] summary:before {
   <summary><strong>First-author papers</strong></summary>
   <ul>
     <li>
-      "<strong>The natural diversity of <em>E. coli</em> transporter-dependent capsules</strong>" — Samuel Miravet-Verde*, Carine Roese Mores*, ..., Shinichi Sunagawa, Timothy G. Keys. <em>bioRxiv</em> (07 Aug 2025). 
-      <a href="https://doi.org/10.1101/2025.08.07.669119" target="_blank" rel="noopener noreferrer">📄 Link</a>
+      "<strong> In silico typing maps the natural diversity of  <em>Escherichia coli</em> transporter-dependent capsules</strong>" — Samuel Miravet-Verde, Elisabetta Cacace, Carine Roese Mores, ..., Shinichi Sunagawa, Timothy G. Keys. <em>Nature Microbiology</em> (23 Apr 2026). 
+      <a href="https://www.nature.com/articles/s41564-026-02323-5" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
       "<strong>Quantitative essentiality in a reduced genome: a functional, regulatory and structural fitness map</strong>" — Samuel Miravet-Verde, Raul Burgos, ..., Luis Serrano. <em>Molecular Systems Biology</em> (13 Aug 2025). 
