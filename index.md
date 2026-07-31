@@ -124,7 +124,7 @@ details[open] summary:before {
 ## Publications
 
 <details>
-  <summary><strong>First-author papers</strong></summary>
+  <summary><strong>Lead scientist</strong></summary>
   <ul>
     <li>
       "<strong> In silico typing maps the natural diversity of  <em>Escherichia coli</em> transporter-dependent capsules</strong>" — Samuel Miravet-Verde, Elisabetta Cacace, Carine Roese Mores, ..., Shinichi Sunagawa, Timothy G. Keys. <em>Nature Microbiology</em> (23 Apr 2026). 
@@ -154,28 +154,6 @@ details[open] summary:before {
 </details>
 
 <details>
-  <summary><strong>Main data analyst</strong></summary>
-  <ul>
-    <li>
-      "<strong>SURE editing: combining oligo-recombineering and programmable insertion/deletion of selection markers to efficiently edit the <em>Mycoplasma pneumoniae</em> genome</strong>" — Carlos Piñero-Lambea, Eva Garcia-Ramallo, Samuel Miravet-Verde, ..., Maria Lluch-Senar, Luis Serrano. <em>Nucleic Acids Research</em> (15 Dec 2022). 
-      <a href="https://pubmed.ncbi.nlm.nih.gov/36215032/" target="_blank" rel="noopener noreferrer">📄 Link</a>
-    </li>
-    <li>
-      "<strong>LoxTnSeq: random transposon insertions combined with cre/lox recombination and counterselection to generate large random genome reductions</strong>" — Daniel Shaw, Samuel Miravet-Verde, ..., Maria Lluch-Senar, Luis Serrano. <em>Microbial Biotechnology</em> (16 Nov 2020). 
-      <a href="https://pubmed.ncbi.nlm.nih.gov/33325626/" target="_blank" rel="noopener noreferrer">📄 Link</a>
-    </li>
-    <li>
-      "<strong>Inferring active metabolic pathways from proteomics and essentiality data</strong>" — Ariadna Montero-Blay, Samuel Miravet-Verde, ..., Maria Lluch-Senar, Luis Serrano. <em>Cell Reports</em> (02 Jun 2020). 
-      <a href="https://doi.org/10.1016/j.celrep.2020.107722" target="_blank" rel="noopener noreferrer">📄 Link</a>
-    </li>
-    <li>
-      "<strong>SynMyco transposon: engineering transposon vectors for efficient transformation of minimal genomes</strong>" — Ariadna Montero-Blay, Samuel Miravet-Verde, ..., Maria Lluch-Senar, Luis Serrano. <em>DNA Research</em> (01 Aug 2019). 
-      <a href="https://pubmed.ncbi.nlm.nih.gov/31257417/" target="_blank" rel="noopener noreferrer">📄 Link</a>
-    </li>
-  </ul>
-</details>
-
-<details>
   <summary><strong>Supervisor</strong></summary>
   <ul>
     <li>
@@ -198,22 +176,52 @@ details[open] summary:before {
 </details>
 
 <details>
-  <summary><strong>Other collaborations</strong></summary>
+  <summary><strong>Main data analyst</strong></summary>
   <ul>
+    <li>
+      "<strong>SURE editing: combining oligo-recombineering and programmable insertion/deletion of selection markers to efficiently edit the <em>Mycoplasma pneumoniae</em> genome</strong>" — Carlos Piñero-Lambea, Eva Garcia-Ramallo, Samuel Miravet-Verde, ..., Maria Lluch-Senar, Luis Serrano. <em>Nucleic Acids Research</em> (15 Dec 2022). 
+      <a href="https://pubmed.ncbi.nlm.nih.gov/36215032/" target="_blank" rel="noopener noreferrer">📄 Link</a>
+    </li>
+    <li>
+      "<strong>LoxTnSeq: random transposon insertions combined with cre/lox recombination and counterselection to generate large random genome reductions</strong>" — Daniel Shaw, Samuel Miravet-Verde, ..., Maria Lluch-Senar, Luis Serrano. <em>Microbial Biotechnology</em> (16 Nov 2020). 
+      <a href="https://pubmed.ncbi.nlm.nih.gov/33325626/" target="_blank" rel="noopener noreferrer">📄 Link</a>
+    </li>
+    <li>
+      "<strong>Inferring active metabolic pathways from proteomics and essentiality data</strong>" — Ariadna Montero-Blay, Samuel Miravet-Verde, ..., Maria Lluch-Senar, Luis Serrano. <em>Cell Reports</em> (02 Jun 2020). 
+      <a href="https://doi.org/10.1016/j.celrep.2020.107722" target="_blank" rel="noopener noreferrer">📄 Link</a>
+    </li>
+    <li>
+      "<strong>SynMyco transposon: engineering transposon vectors for efficient transformation of minimal genomes</strong>" — Ariadna Montero-Blay, Samuel Miravet-Verde, ..., Maria Lluch-Senar, Luis Serrano. <em>DNA Research</em> (01 Aug 2019). 
+      <a href="https://pubmed.ncbi.nlm.nih.gov/31257417/" target="_blank" rel="noopener noreferrer">📄 Link</a>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>Other contributions</strong></summary>
+  <ul>
+    <li>
+      "<strong>Planetary structure and drivers of diazotroph communities reveal key reservoirs of nitrogen-fixation potential</strong>" — Lucas J. Ustick, ..., Samuel Miravet-Verde, Jaime Huerta-Cepas, Shinichi Sunagawa, Michael Kuhn, Peer Bork. <em>bioRxiv</em> (10 Jun 2026).
+    <a href="https://doi.org/10.64898/2026.07.27.741065" target="_blank" rel="noopener noreferrer">📄 Link</a>
+    </li>
+    <li>
+      "<strong>The ultrasmall ocean microbiome: a reservoir of microbial diversity and nitrogen fixation</strong>" — Chloé A. Höllerer, Samuel Miravet-Verde, ..., Shinichi Sunagawa, Chris Bowler. <em>bioRxiv</em> (Date). 
+      <a href="https://doi.org/10.64898/2026.06.16.732551" target="_blank" rel="noopener noreferrer">📄 Link</a>
+    </li>
+    <li>
+      "<strong>Variations in the latitudinal diversity gradients of the ocean microbiome</strong>" — Dominic Eriksson, Jonas Schiller, ..., Samuel Miravet-Verde, ..., Shinichi Sunagawa, Peer Bork, Meike Vogt. <em>Cell Host & Microbe</em> (10 Jun 2026). 
+      <a href="https://doi.org/10.1016/j.chom.2026.05.016" target="_blank" rel="noopener noreferrer">📄 Link</a>
+    </li>
     <li>
       "<strong>Coral microbiomes as reservoirs of unknown genomic and biosynthetic diversity</strong>" — Fabienne Wiederkehr, Lucas Paoli, ..., Samuel Miravet-Verde, ..., Shinichi Sunagawa. <em>Nature</em> (25 Feb 2026). 
       <a href="https://www.nature.com/articles/s41586-026-10159-6" target="_blank" rel="noopener noreferrer">📄 Link</a>
-    </li>
-    <li>
-      "<strong>Variations in the latitudinal diversity gradients of the ocean microbiome</strong>" — Dominic Eriksson, Jonas Schiller, ..., Samuel Miravet-Verde, ..., Shinichi Sunagawa, Peer Bork, Meike Vogt. <em>bioRxiv</em> (13 Oct 2025). 
-      <a href="https://www.biorxiv.org/content/10.1101/2025.10.13.682024v2.abstract" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
       "<strong>Transcriptomic profiles of single-copy marker genes enable predicting bacterial growth states in microbial communities</strong>" — Melanie Staeubli, ..., Samuel Miravet-Verde, ..., Shinichi Sunagawa. <em>bioRxiv</em> (26 Aug 2025). 
       <a href="https://www.biorxiv.org/content/10.1101/2025.08.26.672432v1.full" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
-      "<strong>A roadmap for equitable reuse of public microbiome data</strong>" —Laura A. Hug, Roland Hatzenpichler, ..., The Data Reuse Consortium*, Alexander J. Probst <em>Nature Microbiology</em> (26 Sep 2025). 
+      "<strong>A roadmap for equitable reuse of public microbiome data</strong>" — Laura A. Hug, Roland Hatzenpichler, ..., The Data Reuse Consortium*, Alexander J. Probst <em>Nature Microbiology</em> (26 Sep 2025). 
       <a href="https://www.nature.com/articles/s41564-025-02116-2" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
