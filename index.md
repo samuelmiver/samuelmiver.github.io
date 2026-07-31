@@ -124,7 +124,7 @@ details[open] summary:before {
 ## Publications
 
 <details>
-  <summary><strong>Lead scientist</strong></summary>
+  <summary><strong>Lead Author</strong></summary>
   <ul>
     <li>
       "<strong> In silico typing maps the natural diversity of  <em>Escherichia coli</em> transporter-dependent capsules</strong>" — Samuel Miravet-Verde, Elisabetta Cacace, Carine Roese Mores, ..., Shinichi Sunagawa, Timothy G. Keys. <em>Nature Microbiology</em> (23 Apr 2026). 
@@ -154,7 +154,7 @@ details[open] summary:before {
 </details>
 
 <details>
-  <summary><strong>Supervisor</strong></summary>
+  <summary><strong>Doctoral Advisor</strong></summary>
   <ul>
     <li>
       "<strong>Exon inclusion signatures enable accurate estimation of splicing factor activity</strong>" — Miquel Anglada-Girotto, Daniel F. Moakley, ..., Samuel Miravet-Verde, Andrea Califano, Luis Serrano. <em>Nature Communications</em> (12 Mar 2026). 
@@ -176,7 +176,7 @@ details[open] summary:before {
 </details>
 
 <details>
-  <summary><strong>Main data analyst</strong></summary>
+  <summary><strong>Main Data Analyst</strong></summary>
   <ul>
     <li>
       "<strong>SURE editing: combining oligo-recombineering and programmable insertion/deletion of selection markers to efficiently edit the <em>Mycoplasma pneumoniae</em> genome</strong>" — Carlos Piñero-Lambea, Eva Garcia-Ramallo, Samuel Miravet-Verde, ..., Maria Lluch-Senar, Luis Serrano. <em>Nucleic Acids Research</em> (15 Dec 2022). 
@@ -198,7 +198,7 @@ details[open] summary:before {
 </details>
 
 <details>
-  <summary><strong>Other contributions</strong></summary>
+  <summary><strong>Other Contributions</strong></summary>
   <ul>
     <li>
       "<strong>Planetary structure and drivers of diazotroph communities reveal key reservoirs of nitrogen-fixation potential</strong>" — Lucas J. Ustick, ..., Samuel Miravet-Verde, Jaime Huerta-Cepas, Shinichi Sunagawa, Michael Kuhn, Peer Bork. <em>bioRxiv</em> (28 Jul 2026).
