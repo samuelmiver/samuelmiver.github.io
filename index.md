@@ -201,11 +201,11 @@ details[open] summary:before {
   <summary><strong>Other contributions</strong></summary>
   <ul>
     <li>
-      "<strong>Planetary structure and drivers of diazotroph communities reveal key reservoirs of nitrogen-fixation potential</strong>" — Lucas J. Ustick, ..., Samuel Miravet-Verde, Jaime Huerta-Cepas, Shinichi Sunagawa, Michael Kuhn, Peer Bork. <em>bioRxiv</em> (10 Jun 2026).
+      "<strong>Planetary structure and drivers of diazotroph communities reveal key reservoirs of nitrogen-fixation potential</strong>" — Lucas J. Ustick, ..., Samuel Miravet-Verde, Jaime Huerta-Cepas, Shinichi Sunagawa, Michael Kuhn, Peer Bork. <em>bioRxiv</em> (28 Jul 2026).
     <a href="https://doi.org/10.64898/2026.07.27.741065" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
-      "<strong>The ultrasmall ocean microbiome: a reservoir of microbial diversity and nitrogen fixation</strong>" — Chloé A. Höllerer, Samuel Miravet-Verde, ..., Shinichi Sunagawa, Chris Bowler. <em>bioRxiv</em> (Date). 
+      "<strong>The ultrasmall ocean microbiome: a reservoir of microbial diversity and nitrogen fixation</strong>" — Chloé A. Höllerer, Samuel Miravet-Verde, ..., Shinichi Sunagawa, Chris Bowler. <em>bioRxiv</em> (16 Jun 2026). 
       <a href="https://doi.org/10.64898/2026.06.16.732551" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
