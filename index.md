@@ -201,6 +201,10 @@ details[open] summary:before {
   <summary><strong>Other Contributions</strong></summary>
   <ul>
     <li>
+      "<strong>Synergistic degradation of fucoidans in the ocean</strong>" — Andreas Sichert, ..., Samuel Miravet-Verde, ..., Shinichi Sunagawa, Otto X.Cordero, Uwe Sauer. <em>Nature</em> (26 Aug 2026). 
+      <a href="https://www.nature.com/articles/s41586-026-10980-z" target="_blank" rel="noopener noreferrer">📄 Link</a>
+    </li>
+    <li>
       "<strong>Planetary structure and drivers of diazotroph communities reveal key reservoirs of nitrogen-fixation potential</strong>" — Lucas J. Ustick, ..., Samuel Miravet-Verde, Jaime Huerta-Cepas, Shinichi Sunagawa, Michael Kuhn, Peer Bork. <em>bioRxiv</em> (28 Jul 2026).
     <a href="https://doi.org/10.64898/2026.07.27.741065" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
