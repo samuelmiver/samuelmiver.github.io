@@ -6,7 +6,7 @@
 <img style="float: left; width: 15%; height: auto" src="./profile_image.jpeg">
 -->
 
-I am a **computational biologist** specializing in **microbiology** and **artificial intelligence–driven bioinformatics** to investigate the genomic and functional complexity of microbial life using **proteogenomic** approaches.  
+I am a **bioinformatician** specialized in **microbiology** and **artificial intelligence–driven computational biology** to investigate the genomic and functional complexity of microbial life using **proteogenomic** approaches.  
 
 During my PhD at the Centre for Genomic Regulation in [**Serrano Lab**](http://serranolab.crg.eu/), I led research demonstrating that **small proteins play roles as crucial as larger proteins in microbial systems**, developing multiple tools to study them and addressing other challenges such as **assessing gene essentiality**. I also served as the main data analyst in several collaborative projects, contributing to diverse microbiological studies.  
 
@@ -94,7 +94,7 @@ details[open] summary:before {
   <ul>
     <li>
       <strong>Nov 2022 – Present</strong> — <em>Teaching Fellow</em>, ETH Zurich — Zurich, Switzerland.<br>
-      Planning, preparation, teaching, and evaluation for the block course <strong>Microbial Community Genomics</strong> (551-1119-00L), covering theoretical, practical, and project development aspects of bioinformatics applied to microbiome research (3 editions).
+      Planning, preparation, teaching, and evaluation for the block course <strong>Microbial Community Genomics</strong> (551-1119-00L), covering theoretical, practical, and project development aspects of bioinformatics applied to microbiome research (4 editions).
     </li>
     <li>
       <strong>Sep 2023 – Present</strong> — <em>Editorial Board Member</em>, BMC Bioinformatics.<br>
