@@ -130,11 +130,11 @@ details[open] summary:before {
   <summary><strong>Lead Author</strong></summary>
   <ul>
     <li>
-      "<strong> The Ocean Microbiomics Database reveals thermal niches and projected pressure on marine microbes in a warming ocean</strong>" — Samuel Miravet-Verde, Hans-Joachim Ruscheweyh, Kang Li, ..., Georg Zeller, A. Murat Eren, Shinichi Sunagawa. <em>bioRxiv</em> (29 Sep 2026). 
+      "<strong>The Ocean Microbiomics Database reveals thermal niches and projected pressure on marine microbes in a warming ocean</strong>" — Samuel Miravet-Verde, Hans-Joachim Ruscheweyh, Kang Li, ..., Georg Zeller, A. Murat Eren, Shinichi Sunagawa. <em>bioRxiv</em> (29 Sep 2026). 
       <a href="https://www.biorxiv.org/content/10.64898/2026.09.28.755000v1.full" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
-      "<strong> In silico typing maps the natural diversity of  <em>Escherichia coli</em> transporter-dependent capsules</strong>" — Samuel Miravet-Verde, Elisabetta Cacace, Carine Roese Mores, ..., Shinichi Sunagawa, Timothy G. Keys. <em>Nature Microbiology</em> (23 Apr 2026). 
+      "<strong>In silico typing maps the natural diversity of  <em>Escherichia coli</em> transporter-dependent capsules</strong>" — Samuel Miravet-Verde, Elisabetta Cacace, Carine Roese Mores, ..., Shinichi Sunagawa, Timothy G. Keys. <em>Nature Microbiology</em> (23 Apr 2026). 
       <a href="https://www.nature.com/articles/s41564-026-02323-5" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
     <li>
