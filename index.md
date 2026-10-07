@@ -34,6 +34,9 @@ In 2022, I joined the [**Sunagawa Lab**](https://micro.biol.ethz.ch/research/sun
   <a href="https://x.com/Samuel_BIO2810" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="30" height="30"/>
   </a>
+  <a href="https://bsky.app/profile/samuelmiver.bsky.social" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bluesky.svg" alt="Bluesky" width="30" height="30"/>
+  </a>
 </p>
 
 ## Experience
@@ -127,6 +130,10 @@ details[open] summary:before {
   <summary><strong>Lead Author</strong></summary>
   <ul>
     <li>
+      "<strong> The Ocean Microbiomics Database reveals thermal niches and projected pressure on marine microbes in a warming ocean</strong>" — Samuel Miravet-Verde, Hans-Joachim Ruscheweyh, Kang Li, ..., Georg Zeller, A. Murat Eren, Shinichi Sunagawa. <em>bioRxiv</em> (29 Sep 2026). 
+      <a href="https://www.biorxiv.org/content/10.64898/2026.09.28.755000v1.full" target="_blank" rel="noopener noreferrer">📄 Link</a>
+    </li>
+    <li>
       "<strong> In silico typing maps the natural diversity of  <em>Escherichia coli</em> transporter-dependent capsules</strong>" — Samuel Miravet-Verde, Elisabetta Cacace, Carine Roese Mores, ..., Shinichi Sunagawa, Timothy G. Keys. <em>Nature Microbiology</em> (23 Apr 2026). 
       <a href="https://www.nature.com/articles/s41564-026-02323-5" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
@@ -200,6 +207,10 @@ details[open] summary:before {
 <details>
   <summary><strong>Other Contributions</strong></summary>
   <ul>
+    <li>
+      "<strong><em>Alteromonas macleodii</em> breaches the diatom frustule triggering protoplast emergence and programmed necrosis-like death in <em>Thalassiosira rotula</em></strong>" — Isobel Short, Clara Martínez-Pérez, Samuel Miravet-Verde, Shinichi Sunagawa, Roman Stocker, Uria Alcolombri. <em>Nature Communications</em> (26 Sep 2026). 
+      <a href="https://www.nature.com/articles/s41467-026-78079-7" target="_blank" rel="noopener noreferrer">📄 Link</a>
+    </li>
     <li>
       "<strong>Synergistic degradation of fucoidans in the ocean</strong>" — Andreas Sichert, ..., Samuel Miravet-Verde, ..., Shinichi Sunagawa, Otto X.Cordero, Uwe Sauer. <em>Nature</em> (26 Aug 2026). 
       <a href="https://www.nature.com/articles/s41586-026-10980-z" target="_blank" rel="noopener noreferrer">📄 Link</a>
