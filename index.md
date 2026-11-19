@@ -208,6 +208,10 @@ details[open] summary:before {
   <summary><strong>Other Contributions</strong></summary>
   <ul>
     <li>
+      "<strong>The mOTUs-db in 2027: linking taxonomy, genome-encoded function, and biogeography across environments</strong>" — Marija Dmitrijeva, Hans-Joachim Ruscheweyh, Samuel Miravet-Verde, ..., Georg Zeller, Christian von Mering, Shinichi Sunagawa. <em>Nucleic Acids Research</em> (19 Nov 2026). 
+      <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1231/9097191" target="_blank" rel="noopener noreferrer">📄 Link</a>
+    </li>
+    <li>
       "<strong><em>Alteromonas macleodii</em> breaches the diatom frustule triggering protoplast emergence and programmed necrosis-like death in <em>Thalassiosira rotula</em></strong>" — Isobel Short, Clara Martínez-Pérez, Samuel Miravet-Verde, Shinichi Sunagawa, Roman Stocker, Uria Alcolombri. <em>Nature Communications</em> (26 Sep 2026). 
       <a href="https://www.nature.com/articles/s41467-026-78079-7" target="_blank" rel="noopener noreferrer">📄 Link</a>
     </li>
